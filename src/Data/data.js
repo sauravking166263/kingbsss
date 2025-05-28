@@ -8,7 +8,7 @@ export const data = [
         image: "https://m.media-amazon.com/images/I/41LyNxdSDQL._SX300_SY300_QL70_FMwebp_.jpg",
         discount: "95% Off",
         price: "₹11999",
-        additionalPrice: "₹149.00",
+        additionalPrice: "₹299.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/41LyNxdSDQL._SX300_SY300_QL70_FMwebp_.jpg",
             "https://m.media-amazon.com/images/I/714AOYunqoL._SX679_.jpg",
@@ -25,7 +25,7 @@ export const data = [
         image: "https://rukminim2.flixcart.com/image/832/832/xif0q/gaming-chair/u/o/m/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagkzrejrvx6asf.jpeg?q=70&crop=false",
         discount: "95% Off",
         price: "₹1999",
-        additionalPrice: "₹412.00",
+        additionalPrice: "₹319.00",
         sliderImages: [
             "https://rukminim2.flixcart.com/image/832/832/xif0q/gaming-chair/u/o/m/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagkzrejrvx6asf.jpeg?q=70&crop=false",
             "https://rukminim2.flixcart.com/image/832/832/xif0q/gaming-chair/s/y/f/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagwfgvntw5jtmm.jpeg?q=70&crop=false",
@@ -59,7 +59,7 @@ export const data = [
         image: "https://m.media-amazon.com/images/I/31adJS0CF3L._SX300_SY300_QL70_FMwebp_.jpg",
         discount: "90% Off",
         price: "₹12999",
-        additionalPrice: "462.00",
+        additionalPrice: "279.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/31adJS0CF3L._SX300_SY300_QL70_FMwebp_.jpg",
             "https://m.media-amazon.com/images/I/51p8o4iNF4L._SX679_.jpg",
@@ -75,7 +75,7 @@ export const data = [
         image: "https://m.media-amazon.com/images/I/71F-yydQ+gL._SX679_.jpg",
         discount: "96% Off",
         price: "₹16999",
-        additionalPrice: "409.00",
+        additionalPrice: "349.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/71F-yydQ+gL._SX679_.jpg",
             "https://m.media-amazon.com/images/I/51eBSkpU6aL._SY879_.jpg",
@@ -138,7 +138,7 @@ export const data = [
         image: "https://m.media-amazon.com/images/I/41XVkP03OHL._SX300_SY300_QL70_FMwebp_.jpg",
         discount: "86% Off",
         price: "₹7999",
-        additionalPrice: "454.00",
+        additionalPrice: "319.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/41XVkP03OHL._SX300_SY300_QL70_FMwebp_.jpg",
             "https://m.media-amazon.com/images/I/616A3rfO4nL._SX679_.jpg",
@@ -172,7 +172,7 @@ export const data = [
         image: "https://m.media-amazon.com/images/I/81meL0lhb9L._SX679_.jpg",
         discount: "85% Off",
         price: "₹6599",
-        additionalPrice: "476.00",
+        additionalPrice: "449.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/81meL0lhb9L._SX679_.jpg",
             "https://m.media-amazon.com/images/I/71tCpnPdkaL._SL1500_.jpg",
@@ -190,7 +190,7 @@ export const data = [
         image: "https://rukminim2.flixcart.com/image/832/832/xif0q/general-chair/e/f/w/chair-hbrniture-original-imagrv8jrhhh3hwz.jpeg?q=70&crop=false",
         discount: "80% Off",
         price: "₹8990",
-        additionalPrice: "₹466.00",
+        additionalPrice: "₹319.00",
         sliderImages: [
             "https://rukminim2.flixcart.com/image/832/832/xif0q/general-chair/e/f/w/chair-hbrniture-original-imagrv8jrhhh3hwz.jpeg?q=70&crop=false",
             "https://rukminim2.flixcart.com/image/832/832/xif0q/general-chair/w/a/m/chair-hbrniture-original-imagrv8jyjmmnzad.jpeg?q=70&crop=false",
@@ -206,7 +206,7 @@ export const data = [
         image: "https://m.media-amazon.com/images/I/41APpxvPO1L._SX300_SY300_QL70_FMwebp_.jpg",
         discount: "82% Off",
         price: "₹13999",
-        additionalPrice: "₹440.00",
+        additionalPrice: "₹279.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/41APpxvPO1L._SX300_SY300_QL70_FMwebp_.jpg",
             "https://m.media-amazon.com/images/I/71Pu1REEd9L._SX679_.jpg",
@@ -222,7 +222,7 @@ export const data = [
         image: "https://m.media-amazon.com/images/I/41UvmHaGbML._SX300_SY300_QL70_FMwebp_.jpg",
         discount: "90% Off",
         price: "₹11907",
-        additionalPrice: "₹479.00",
+        additionalPrice: "₹249.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/41UvmHaGbML._SX300_SY300_QL70_FMwebp_.jpg",
             "https://m.media-amazon.com/images/I/71aS19oAdPL._SX679_.jpg",
