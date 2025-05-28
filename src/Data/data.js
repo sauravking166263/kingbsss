@@ -92,7 +92,7 @@ export const data = [
         image: "https://rukminim2.flixcart.com/image/832/832/xif0q/office-study-chair/x/8/w/1-carbon-steel-45-456789-gfjyu-20-original-imagsyyhxbszhgub.jpeg?q=70&crop=false",
         discount: "87% Off",
         price: "₹19989",
-        additionalPrice: "₹410.00",
+        additionalPrice: "₹467.00",
         sliderImages: [
             "https://rukminim2.flixcart.com/image/832/832/xif0q/office-study-chair/x/8/w/1-carbon-steel-45-456789-gfjyu-20-original-imagsyyhxbszhgub.jpeg?q=70&crop=false",
             "https://rukminim2.flixcart.com/image/832/832/xif0q/office-study-chair/5/g/a/1-carbon-steel-45-456789-gfjyu-20-original-imagsyyhtr7t7vrj.jpeg?q=70&crop=false",
