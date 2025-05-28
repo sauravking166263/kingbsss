@@ -5,22 +5,10 @@ export const data = [
         id: 1,
         type: 'product',
         title: "Green Soul Raptor 2.0 Racing Edition Ergonomic Gaming Chair with Premium PU Leather, Adjustable Neck & Lumbar Pillow, 3D Adjustable Armrests & Heavy Duty Nylon Base (Black & Red)",
-        
-<div class="gh_si_vcf">
-                    
-                    <div class="bdr_fnd" onclick="manage_gid_size">6</div>
-                    <div class="bdr_fnd" onclick="manage_gid_size">7</div>
-                    <div class="bdr_fnd" onclick="manage_gid_size">8</div>
-                    <div class="bdr_fnd" onclick="manage_gid_size">9</div>
-                    <div class="bdr_fnd" onclick="manage_gid_size">10</div>
-                    <div class="bdr_fnd" onclick="manage_gid_size">11</div>
-                    <div class="bdr_fnd" onclick="manage_gid_size">12</div>
-                </div>
-
         image: "https://m.media-amazon.com/images/I/41LyNxdSDQL._SX300_SY300_QL70_FMwebp_.jpg",
         discount: "95% Off",
         price: "₹11999",
-        additionalPrice: "₹199.00",
+        additionalPrice: "₹1.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/41LyNxdSDQL._SX300_SY300_QL70_FMwebp_.jpg",
             "https://m.media-amazon.com/images/I/714AOYunqoL._SX679_.jpg",
