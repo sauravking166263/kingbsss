@@ -8,7 +8,7 @@ export const data = [
         image: "https://m.media-amazon.com/images/I/41LyNxdSDQL._SX300_SY300_QL70_FMwebp_.jpg",
         discount: "95% Off",
         price: "₹11999",
-        additionalPrice: "₹445.00",
+        additionalPrice: "₹199.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/41LyNxdSDQL._SX300_SY300_QL70_FMwebp_.jpg",
             "https://m.media-amazon.com/images/I/714AOYunqoL._SX679_.jpg",
