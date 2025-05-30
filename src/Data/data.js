@@ -4,373 +4,348 @@ export const data = [
     {
         id: 1,
         type: 'product',
-        title: "Green Soul Raptor 2.0 Racing Edition Ergonomic Gaming Chair with Premium PU Leather, Adjustable Neck & Lumbar Pillow, 3D Adjustable Armrests & Heavy Duty Nylon Base (Black & Red)",
-        image: "https://m.media-amazon.com/images/I/41LyNxdSDQL._SX300_SY300_QL70_FMwebp_.jpg",
-        discount: "95% Off",
-        price: "₹11999",
-        additionalPrice: "₹299.00",
+        title: "Pack of 4 kg (Kaju, Almonds, Walnut, Whole Walnut each 1 KG)",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Untitled-1_3803afe0-d629-4bca-b0e5-f2e95f3fe0ad.png?v=1719849493",
+        discount: "77% Off",
+        price: "₹1846",
+        additionalPrice: "₹349.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/41LyNxdSDQL._SX300_SY300_QL70_FMwebp_.jpg",
-            "https://m.media-amazon.com/images/I/714AOYunqoL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/61rdJHMJyNL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/71gtjOXv60L._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/716VFu30bpL._SX679_.jpg",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Untitled-1_3803afe0-d629-4bca-b0e5-f2e95f3fe0ad.png?v=1719849493",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Almond-Large-1_360x_5361846e-c265-4c05-b2d5-1b848bd5fdad.jpg?v=1719849669",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/DSC_0032_main_720x_c6c76dc2-7027-4688-aa10-15316b96320d.jpg?v=1719849491",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Walnuts-Kernals-Jumbo-1_360x_1afb4c11-00a6-463e-a490-d6812838136e.jpg?v=1719848180",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Cashew-Nuts-Medium-1_1024x1024_1cd39cb1-306a-4933-8683-f634c3114747.jpg?v=1719848180"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/downloadrv_bv8rSZE.jpg"
     },
     {
         id: 2,
         type: 'product',
-        title: "BAYBEE Drogo Multi-Purpose Ergonomic Gaming Chair 7 Way Adjustable Seat 3D Armrest, Head & Lumbar Support Pillow Home & Office Chair with Full Reclining Back Footrest (Royal Blue) (Fabric) ",
-        image: "https://rukminim2.flixcart.com/image/832/832/xif0q/gaming-chair/u/o/m/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagkzrejrvx6asf.jpeg?q=70&crop=false",
-        discount: "95% Off",
-        price: "₹1999",
-        additionalPrice: "₹319.00",
+        title: "5 Litre Jar + 1L Pouch Saffola Gold Refined Cooking oil I Power of 3 - Balance of Good Fats, Triple Anti-Oxidant System & Fortified with Vitamins I Multi-Source Edible Rice Bran & Sunflower Oil",
+        image: "https://m.media-amazon.com/images/I/71qTlx+7CzL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg",
+        discount: "78% Off",
+        price: "₹2999",
+        additionalPrice: "₹219.00",
         sliderImages: [
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/gaming-chair/u/o/m/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagkzrejrvx6asf.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/gaming-chair/s/y/f/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagwfgvntw5jtmm.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/gaming-chair/p/8/t/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagwfgvrvqkhvju.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/gaming-chair/d/o/p/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagwfgvrszfjz3m.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/gaming-chair/y/b/e/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagwfgvzu6ahhmh.jpeg?q=70&crop=false"
+            "https://m.media-amazon.com/images/I/71qTlx+7CzL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg",
+            "https://m.media-amazon.com/images/I/71nhPCrj5TL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71qTlx+7CzL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg",
+            "https://m.media-amazon.com/images/I/71qTlx+7CzL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
     {
         id: 3,
         type: 'product',
-        title: "Da URBAN Richmond High Back Revolving Leatherette Ergonomic Home & Office Executive Chair with High Comfort Seating, Height Adjustable Seat & Heavy Duty Metal Base (Tan)",
-        image: "https://m.media-amazon.com/images/I/61QwIPNce8L._SX679_.jpg",
-        discount: "90% Off",
-        price: "5999",
-        additionalPrice: "402.00",
+        title: "15 Kg Maanu Cold Pressed Groundnut Peanuts Oil I Tin Can I Kolhu/Kacchi Ghani/Chekku/Ganuga | Peanut Oil I Natural I Chemical-Free I Cold Pressed Groundnut Oil for Cooking",
+        image: "https://m.media-amazon.com/images/I/51WxTBStbcL._SX679_.jpg",
+        discount: "78% Off",
+        price: "4599",
+        additionalPrice: "329.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/61QwIPNce8L._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/81QrltzZgSL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/71dWfiTYJ5L._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/81z-aZ2mFGL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/81ig9WI4ybL._SX679_.jpg"
+            "https://m.media-amazon.com/images/I/51WxTBStbcL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/51GJPSM3M0L._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61poBdYvuAL._SX679_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
     },
     {
         id: 4,
         type: 'product',
-        title: " SmileSellers Boom Mesh Mid-Back Ergonomic Desk Office Chair with Tilting Mechanism, Comfortable Seat, and Revolving Heavy Duty Metal Base I Ideal for Work from Home & Study (Black)",
-        image: "https://m.media-amazon.com/images/I/31adJS0CF3L._SX300_SY300_QL70_FMwebp_.jpg",
-        discount: "90% Off",
-        price: "₹12999",
-        additionalPrice: "279.00",
+        title: "Amul Pure Ghee 1L Tin",
+        image: "https://m.media-amazon.com/images/I/91XwaoIF0AL._AC_SL1500_.jpg",
+        discount: "76% Off",
+        price: "₹990",
+        additionalPrice: "299.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/31adJS0CF3L._SX300_SY300_QL70_FMwebp_.jpg",
-            "https://m.media-amazon.com/images/I/51p8o4iNF4L._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/41zJLJvH-aL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/41oBeAAGVbL._SX679_.jpg"
+            "https://m.media-amazon.com/images/I/91XwaoIF0AL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81bqK5QyiaL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81hF-2YZeYL._AC_SL1500_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/download_rMYhJP3.jpg"
     },
     {
         id: 5,
         type: 'product',
-        title: "FUGO Executive Chairll Ergonomic Leatherette Officell Work from Home Chairll Strong Metal BasellHigh Comfort Seating Chair for OfficellBoss Chair (FUGO- 10CT-BROWN-High-Back)",
-        image: "https://m.media-amazon.com/images/I/71F-yydQ+gL._SX679_.jpg",
-        discount: "96% Off",
-        price: "₹16999",
-        additionalPrice: "349.00",
+        title: "Aashirvaad Shudh Chakki Atta, 5kg Pack, 100% Whole Wheat Flour, 0% Maida",
+        image: "https://m.media-amazon.com/images/I/91vlPmt5x6L._SY741_.jpg",
+        discount: "76% Off",
+        price: "₹999",
+        additionalPrice: "279.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/71F-yydQ+gL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/51eBSkpU6aL._SY879_.jpg",
-            "https://m.media-amazon.com/images/I/61ZWBqflZtL._SY879_.jpg",
-            "https://m.media-amazon.com/images/I/71lNtQDADwL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/51bBlxk9+UL._SY879_.jpg"
-        ], 
-        info: "https://rc.super-deel.site/uffr/media/polls/images/download_MSKov80.jpg"
+            "https://m.media-amazon.com/images/I/91vlPmt5x6L._SY741_.jpg",
+            "https://m.media-amazon.com/images/I/91Na1oLkSDL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/91iiP3oBsHL._SX679_.jpg"
+        ], info: "https://rc.super-deel.site/uffr/media/polls/images/download_MSKov80.jpg"
     },
     {
         id: 6,
         type: 'product',
-        title: " Green Soul Vienna_HB Fabric Full Grey",
-        image: "https://rukminim2.flixcart.com/image/832/832/xif0q/office-study-chair/x/8/w/1-carbon-steel-45-456789-gfjyu-20-original-imagsyyhxbszhgub.jpeg?q=70&crop=false",
-        discount: "87% Off",
-        price: "₹19989",
-        additionalPrice: "₹467.00",
+        title: "6kg+2kg Tide Plus Detergent Washing Powder - free I Jasmine & Rose Fragrance I Removes deep-seated Oil, Gravy, Tea Stains 1 8kg, Pack of 1",
+        image: "https://m.media-amazon.com/images/I/71l5z0vNs3L._SX679_.jpg",
+        discount: "77% Off",
+        price: "₹999",
+        additionalPrice: "₹249.00",
         sliderImages: [
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/office-study-chair/x/8/w/1-carbon-steel-45-456789-gfjyu-20-original-imagsyyhxbszhgub.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/office-study-chair/5/g/a/1-carbon-steel-45-456789-gfjyu-20-original-imagsyyhtr7t7vrj.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/office-study-chair/c/s/x/1-carbon-steel-45-456789-gfjyu-20-original-imagsyyhbkggbtjx.jpeg?q=70&crop=false",
+            "https://m.media-amazon.com/images/I/71l5z0vNs3L._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81GNvBbouhL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71l5z0vNs3L._SX679_.jpg",
 
         ], info: "https://rc.super-deel.site/uffr/media/polls/images/download_Xj2qTgj.jpg"
     },
     {
         id: 7,
         type: 'product',
-        title: "FUGO Executive ChairlI Ergonomic Leatherette OfficellWork from Home Chairll Strong Metal BasellHigh Comfort Seating Chair for OfficellBoss Chair' (FUGO-10CT-BROWN-High-Back)",
-        image: "https://m.media-amazon.com/images/I/71F-yydQ+gL._SX679_.jpg",
-        discount: "85% Off",
-        price: "₹19949",
-        additionalPrice: "₹489.00",
+        title: "Pack of 4 kg (Anjeer, Black Kismis, Almond, Brazil Nut each 1 KG)",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/dvfcbgvnhmhj1_90bec927-f8be-4a75-82a8-f364b9abef5a.png?v=1719896537",
+        discount: "75% Off",
+        price: "₹1994",
+        additionalPrice: "₹299.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/71F-yydQ+gL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/51m8oqrqhsL._SX679_.jpg",
-            
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/dvfcbgvnhmhj1_90bec927-f8be-4a75-82a8-f364b9abef5a.png?v=1719896537",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Afghan-Black-Raisins-Seed-1-new_1024x1024_41f0ca8a-36f8-472b-b9dd-5980b988fc2c.jpg?v=1719896552",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Brazil-Nuts-1_360x_3c7fc775-5a07-40eb-8046-7eb6778955d1.jpg?v=1719896552"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/comimg_mdobJnO.jpg"
     },
     {
         id: 8,
         type: 'product',
-        title: "SITon Furniture Ergonomic Office Chair, Study,REVOLVING, Computer Chair Best for Work from Home Executive Chrome Metal Base (Brown) with ONE Year Warranty NO 12",
-        image: "https://m.media-amazon.com/images/I/41XVx7JPCDL._SX300_SY300_QL70_FMwebp_.jpg",
-        discount: "90% Off",
-        price: "₹7999",
-        additionalPrice: "449.00",
+        title: "1kg PistalRoasted Salted Pistal Crunchy Pistachios|Tasty & Healthy Nuts Dry FruitsiRich in Protein, Fibre, Gluten Free & Low Calories|Healthy Snacks|Dry Fruit Gift Pack)",
+        image: "https://m.media-amazon.com/images/I/512R39+ge4L._SX679_.jpg",
+        discount: "99% Off",
+        price: "₹1299",
+        additionalPrice: "₹239.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/41XVx7JPCDL._SX300_SY300_QL70_FMwebp_.jpg",
-            "https://m.media-amazon.com/images/I/51PLqDgh6xL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/61rEJjEUJjL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/51706Nc2OyL._SX679_.jpg"
-
+            "https://m.media-amazon.com/images/I/512R39+ge4L._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/91IZElZCi5L._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/512R39+ge4L._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/91IZElZCi5L._SX679_.jpg"
         ], info: "https://rc.super-deel.site/uffr/media/polls/images/sdfgsdfgsdfgsdfg.jpg"
     },
     {
         id: 9,
         type: 'product',
-        title: "CELLBELL C54 Ergonomic High Back Boss Chair Leather Office Chair/Director Chair/Leatherette Executive Revolving Chair [Orange]",
-        image: "https://m.media-amazon.com/images/I/41XVkP03OHL._SX300_SY300_QL70_FMwebp_.jpg",
-        discount: "86% Off",
-        price: "₹7999",
-        additionalPrice: "319.00",
+        title: "1 KG Regency Walnut Inshell",
+        image: "https://www.bigbasket.com/media/uploads/p/l/40142874_4-regency-walnut-in-shell-premium.jpg",
+        discount: "76% Off",
+        price: "₹899",
+        additionalPrice: "179.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/41XVkP03OHL._SX300_SY300_QL70_FMwebp_.jpg",
-            "https://m.media-amazon.com/images/I/616A3rfO4nL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/619dESStifL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/61xUQlr23vL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/51phx3HtNYL._SX679_.jpg"
+            "https://www.bigbasket.com/media/uploads/p/l/40142874_4-regency-walnut-in-shell-premium.jpg",
+            "https://www.bigbasket.com/media/uploads/p/l/40142874-2_4-regency-walnut-in-shell-premium.jpg",
+            "https://www.bigbasket.com/media/uploads/p/l/40142874-4_3-regency-walnut-in-shell-premium.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/egergwertgqertgwertg.jpg"
     },
     {
         id: 10,
         type: 'product',
-        title: " Green Soul Vienna Premium Leatherette Office Chair, High Back Ergonomic Home Office Executive Chair with Spacious Cushion Seat & Heavy Duty Metal Base (Forest Black)",
-        image: "https://m.media-amazon.com/images/I/51PPI4U0x2L.jpg",
-        discount: "83% Off",
-        price: "₹11000",
-        additionalPrice: "₹498.00",
+        title: "5 Kg Surf Excel Easy Wash Detergent Powder",
+        image: "https://m.media-amazon.com/images/I/61s5orKgmwL._SX679_.jpg",
+        discount: "73% Off",
+        price: "₹770",
+        additionalPrice: "₹151.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/51PPI4U0x2L.jpg",
-            "https://m.media-amazon.com/images/I/51VJUv-xm7L.jpg",
-            "https://m.media-amazon.com/images/I/41IVGKCdHqL.jpg",
-            "https://m.media-amazon.com/images/I/41TuJlKcatL.jpg",
-            "https://m.media-amazon.com/images/I/41V0Wen3QGL.jpg"
+            "https://m.media-amazon.com/images/I/61s5orKgmwL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/616rE8iiXsL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61s5orKgmwL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/616rE8iiXsL._SX679_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/asoldjfhaosdfoasdjfkl.jpg"
     },
     {
         id: 11,
         type: 'product',
-        title: "Green Soul Jupiter Echo Office Chair, High Back Mesh Ergonomic Home Office Desk Chair with 2D Adjustable Headrest & Lumbar Support, Synchro-Tilt Lock Mechanism & Heavy Duty Metal Base (Black)",
-        image: "https://m.media-amazon.com/images/I/81meL0lhb9L._SX679_.jpg",
-        discount: "85% Off",
-        price: "₹6599",
-        additionalPrice: "449.00",
+        title: "5L Fortune Sunlite Refined Sunflower Oil Jar",
+        image: "https://m.media-amazon.com/images/I/51B9YFCkZrS.jpg",
+        discount: "80% Off",
+        price: "₹1239",
+        additionalPrice: "229.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/81meL0lhb9L._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/71tCpnPdkaL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/71yJncCV9EL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/71HlCupzxJL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/71BdISk8PJL._SL1500_.jpg",
-        
+            "https://m.media-amazon.com/images/I/51B9YFCkZrS.jpg",
+            "https://m.media-amazon.com/images/I/71AgCOCoKYL._SY879_.jpg",
+            "https://m.media-amazon.com/images/I/51B9YFCkZrS.jpg",
+            "https://m.media-amazon.com/images/I/71AgCOCoKYL._SY879_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/asdfgwerfghweqrtgyqertqertqwert.jpg"
     },
     {
         id: 12,
         type: 'product',
-        title: "Wakefit Office Chair | 3 Years Warranty I Chair for Office Work at Home, Ergonomic Chair, Computer Chair, High Back Chair, 2D Adjustable Lumbar Support, Single Lock : Safari (Black) DIY",
-        image: "https://rukminim2.flixcart.com/image/832/832/xif0q/general-chair/e/f/w/chair-hbrniture-original-imagrv8jrhhh3hwz.jpeg?q=70&crop=false",
+        title: "1 Kg | Kismish | Premium Dried Grapes | Sweet Fruity Taste and Soft Chewy Texture I Natural Source of Antioxidants, Potassium & Fiber I Healthy Snack",
+        image: "https://m.media-amazon.com/images/I/71hYJpQ68nL._SX679_.jpg",
         discount: "80% Off",
-        price: "₹8990",
-        additionalPrice: "₹319.00",
+        price: "₹900",
+        additionalPrice: "₹169.00",
         sliderImages: [
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/general-chair/e/f/w/chair-hbrniture-original-imagrv8jrhhh3hwz.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/general-chair/w/a/m/chair-hbrniture-original-imagrv8jyjmmnzad.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/general-chair/l/g/o/chair-vhjghhg-original-imagrv8cppfheyxz.jpeg?q=70&crop=false",
-            
+            "https://m.media-amazon.com/images/I/71hYJpQ68nL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71pVOHrz5OL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71hYJpQ68nL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/91-q1Dht+ZL._SX679_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/jgtyujrtyhj.jpg"
     },
     {
         id: 13,
         type: 'product',
-        title: "ASTRIDE Ace Mid Back Office Chair for Work from Home/Study Chair/Revolving Chair [Heavy Duty Nylon Base, Black]",
-        image: "https://m.media-amazon.com/images/I/41APpxvPO1L._SX300_SY300_QL70_FMwebp_.jpg",
-        discount: "82% Off",
-        price: "₹13999",
-        additionalPrice: "₹279.00",
+        title: "5L Gemini Oil_ARIPL Gemini Refined Sunflower Oil Jar,",
+        image: "https://m.media-amazon.com/images/I/71D7GpxoruL._SY741_.jpg",
+        discount: "75% Off",
+        price: "₹1299",
+        additionalPrice: "₹219.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/41APpxvPO1L._SX300_SY300_QL70_FMwebp_.jpg",
-            "https://m.media-amazon.com/images/I/71Pu1REEd9L._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/71iQm1-n5UL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/71Z2Q6nZjYL._SX679_.jpg"
-
+            "https://m.media-amazon.com/images/I/71D7GpxoruL._SY741_.jpg"
         ], info: "https://rc.super-deel.site/uffr/media/polls/images/fasdfasdfasdf.jpg"
     },
     {
         id: 14,
         type: 'product',
-        title: "Green Soul Atom Office Chair, Mid Back Mesh Ergonomic Home Office Desk Chair with Comfortable & Spacious Seat, Rocking-tilt Mechanism & Heavy Duty Metal Base (Black)",
-        image: "https://m.media-amazon.com/images/I/41UvmHaGbML._SX300_SY300_QL70_FMwebp_.jpg",
-        discount: "90% Off",
-        price: "₹11907",
-        additionalPrice: "₹249.00",
+        title: "NUTRI MIRACLE Makar Sankranti Gift Hamper for Office Clients and Staff",
+        image: "https://m.media-amazon.com/images/I/81y1MDgIowL._SX679_.jpg",
+        discount: "74% Off",
+        price: "₹1907",
+        additionalPrice: "₹279.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/41UvmHaGbML._SX300_SY300_QL70_FMwebp_.jpg",
-            "https://m.media-amazon.com/images/I/71aS19oAdPL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/61NPwLdzWvL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/71w2JskgVPL._SL1500_.jpg"
+            "https://m.media-amazon.com/images/I/81y1MDgIowL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/913KZeNBNAL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81y1MDgIowL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/915V9jMCMlL._SX679_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/asdfgawedtgqerg.jpg"
     },
     {
         id: 15,
         type: 'product',
-        title: " Fan Home I Densenest Honeycomb Pads 117% More Air",
-        image: "https://m.media-amazon.com/images/I/61W-4anzt4L._SL1500_.jpg",
+        title: "1Kg- Vedaka Premium Black Raisins | Kali Kishmish",
+        image: "https://m.media-amazon.com/images/I/81oRsFhyHQL._SX679_.jpg",
         discount: "76% Off",
-        price: "₹2599,",
-        additionalPrice: "₹229.00",
+        price: "₹599,",
+        additionalPrice: "₹199.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/61W-4anzt4L._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/413fPvOM3-L.jpg",
-            "https://m.media-amazon.com/images/I/51f3+gd2pyL.jpg"
+            "https://m.media-amazon.com/images/I/81oRsFhyHQL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71ov5aaiqKL._SX679_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/5.jpg"
     },
     {
         id: 16,
         type: 'product',
-        title: "TRIBIT StormBox Blast 2 Bluetooth Speaker, 200W Portable Speaker with Subwoofer, XBass, LED Lights, Bluetooth 5.4, IP67, Custom EQ, 30H Playtime, Karaoked",
-        image: "https://m.media-amazon.com/images/I/51RaySTbIVL._SL1500_.jpg",
-        discount: "85% Off",
-        price: "₹999",
-        additionalPrice: "₹299.00",
+        title: "(15Liter) MOLIMORE Refined Cottonseed Oil - Pure, Light, and Perfect for Healthy Cooking",
+        image: "https://m.media-amazon.com/images/I/61TrDwrIAaL._SX679_.jpg",
+        discount: "78% Off",
+        price: "₹1999",
+        additionalPrice: "₹349.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/51RaySTbIVL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/51xsaTcyZxL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/51h6t-wab3L._SL1500_.jpg",
-            
+            "https://m.media-amazon.com/images/I/61TrDwrIAaL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71FXLJ7kNpL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/51y10lQmbtL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61TrDwrIAaL._SX679_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/5_3kjoVph.jpg"
     },
     {
         id: 17,
         type: 'product',
-        title: "JBL eair phone ",
-        image: "https://m.media-amazon.com/images/I/51Q8DUDT2eL._SL1500_.jpg",
+        title: "Kashmiri Walnuts",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Walnuts-Kernals-Jumbo-1_360x_49cb40c5-ae50-4b20-bd88-d3fc69ace22b.webp?v=1714560984",
         discount: "81% Off",
-        price: "₹21819",
-        additionalPrice: "₹249.00",
+        price: "₹1819",
+        additionalPrice: "₹189.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/51Q8DUDT2eL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/91kcPKEG-NL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/91iPKswDKVL._SL1500_.jpg",
-            
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Walnuts-Kernals-Jumbo-1_360x_49cb40c5-ae50-4b20-bd88-d3fc69ace22b.webp?v=1714560984",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/DSC0971-1_720x_d74e27d9-ed5d-4720-83e2-e7007713fd60.jpg?v=1714560984",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/DSC1022-1_720x_3c11f01b-9869-4aa5-82e7-06eee7bacf34.jpg?v=1714560984",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Screenshot2021-09-23at5.27.31PM_720x_9bec3f82-d15c-4d75-8a98-915e3c6acfb5.png?v=1714560984"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/5_JxoDcj6.jpg"
     },
     {
         id: 18,
         type: 'product',
-        title: "Carrier 1.5 Ton 3 Star Wi-Fi Smart Flexicool Inverter Split AC (Copper, Convertible 6-in-1 Cooling, Smart Energy Display, HD & PM 2.5 Filter, ESTER EDGE FXi (Wi-Fi), CAI18EE3R35W0,White",
-        image: "https://m.media-amazon.com/images/I/81Jec1au1rL._SL1500_.jpg",
+        title: "Kaju Masala",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/cashew-spicy-cream-onion-250x250.jpg?v=1714558936",
         discount: "83% Off",
-        price: "₹11934",
-        additionalPrice: "₹898.00",
+        price: "₹1934",
+        additionalPrice: "₹179.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/81Jec1au1rL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/71Ng+mXpUML._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/81enVHuO58L._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/71CNXbGNBqL._SL1500_.jpg"
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/cashew-spicy-cream-onion-250x250.jpg?v=1714558936",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/kaju_masala_1_1200x_5831dd64-e405-4063-ae01-042cb8794aab.jpg?v=1714558942",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/dried-masala-kaju-250x250.jpg?v=1714558942",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/kaju_masala_1_1200x_5831dd64-e405-4063-ae01-042cb8794aab.jpg?v=1714558942"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/5_GfSPSUE.jpg"
     },
     {
         id: 19,
         type: 'product',
-        title: "LG 185 L 5 Star Inverter Direct-Cool Single Door Refrigerator (GL-D201ABEU, Blue Euphoria, Base stand with drawer)",
-        image: "https://m.media-amazon.com/images/I/71Q46li47mL._SL1500_.jpg",
+        title: "3kg Goshudh Badam 1Kg, Kaju 1Kg, Pista 1Kg Combo Pack",
+        image: "https://m.media-amazon.com/images/I/81DxKBPX+IL._SX679_PIbundle-3,TopRight,0,0_SX679SY604SH20_.jpg",
         discount: "82% Off",
-        price: "₹18499",
-        additionalPrice: "₹849.00",
+        price: "₹2899",
+        additionalPrice: "₹329.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/71Q46li47mL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/71vcuK7KTeL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/81SbPlKHOAL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/713GdcIyp2L._SL1500_.jpg"
+            "https://m.media-amazon.com/images/I/81DxKBPX+IL._SX679_PIbundle-3,TopRight,0,0_SX679SY604SH20_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/5_j8KBX7g.jpg"
     },
     {
         id: 20,
         type: 'product',
-        title: "TOSHIBA Countertop Microwave Oven Air Fryer Combo, Inverter, Convection, Broil, Speedy Combi, Even Defrost, Humidity Sensor, Mute Function, 27 Auto Menu&47 Recipes, 1.0 cu.ft/30QT, 1000W",
-        image: "https://m.media-amazon.com/images/I/81Q0g8miyVL._AC_SX679_.jpg",
+        title: "(1KG) Organic Basket Premium Afghani Anjeer (Dried Figs)",
+        image: "https://m.media-amazon.com/images/I/71QY0q0LALL._SX679_.jpg",
         discount: "84% Off",
-        price: "₹16949",
-        additionalPrice: "₹430.00",
+        price: "₹699",
+        additionalPrice: "₹191.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/81Q0g8miyVL._AC_SX679_.jpg",
-            "https://m.media-amazon.com/images/I/81qHy174G8L._AC_SX679_.jpg",
-            "https://m.media-amazon.com/images/I/81nhEw4DFmL._AC_SX679_.jpg",
-            
+            "https://m.media-amazon.com/images/I/71QY0q0LALL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/41YZgwYaSbL.jpg",
+            "https://m.media-amazon.com/images/I/7195XmbAvgS._SX679_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/5_hxwqr2O.jpg"
     },
     {
         id: 21,
         type: 'product',
-        title: "Prestige 750 Watts Iris Plus Mixer Grinder With 4 Jars (3 Stainless Steel Jars+ 1 Juicer Jar)l 4 Super Efficient Stainless Blades",
-        image: "https://m.media-amazon.com/images/I/51ZykaL8q6L._SX679_.jpg",
+        title: "2 Gram- Pack of 1 UPAKARMA Original Kashmiri Kesar/Saffron | Handpicked Pure Finest Grade |",
+        image: "https://m.media-amazon.com/images/I/71V2uwn2PlL._SX679_.jpg",
         discount: "82% Off",
-        price: "2500",
-        additionalPrice: "319.00",
+        price: "1810",
+        additionalPrice: "211.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/51ZykaL8q6L._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/617dnjoIDjL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/617BJXmORxL._SX679_.jpg",
-        
+            "https://m.media-amazon.com/images/I/71V2uwn2PlL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71hdAa9gy2L._SX679_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/5_xrOmAuJ.jpg"
     },
     {
         id: 22,
         type: 'product',
-        title: "Samsung 183 L, 4 Star, Digital Inverter, Direct-Cool Single Door Refrigerator (RR20C1824CR/HL, Red, Camellia Purple, Base Stand Drawer)",
-        image: "https://m.media-amazon.com/images/I/71bYFsyEFFL._SL1500_.jpg",
+        title: "1 kg Macadamia Nuts",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Macademia-Nuts-1.jpg?v=1714562730",
         discount: "82% Off",
         price: "₹1998",
-        additionalPrice: "₹879.00",
+        additionalPrice: "₹198.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/71bYFsyEFFL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/71uCbx5rGNL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/81iM5+CGgTL._SL1500_.jpg",
-            "https://m.media-amazon.com/images/I/81bK5H8FNgL._SL1500_.jpg",
-
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Macademia-Nuts-1.jpg?v=1714562730",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/5mm-macadamia-nuts-500x500.jpg?v=1714562729",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/loose-mecadamia-nuts-500x500.jpg?v=1714562730",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/macadamia-nut-500x500.jpg?v=1714562730"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/4_RX20Ifo.jpg"
     },
     {
         id: 23,
         type: 'product',
-        title: "red car Battery Operated bike with Light & Music",
-        image: "https://rukminim3.flixcart.com/image/1170/732/k30h8y80/electric-ride-on/q/s/z/lz-518-red-letzride-original-imafm8dyd2rdwbzh.jpeg?q=90&crop=false",
+        title: "2kg Pine Nuts Inshell",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Pine-Nuts-1.jpg?v=1714562635",
         discount: "82% Off",
-        price: "₹11942",
-        additionalPrice: "₹359.00",
+        price: "₹1942",
+        additionalPrice: "₹223.00",
         sliderImages: [
-            "https://rukminim3.flixcart.com/image/1170/732/k30h8y80/electric-ride-on/q/s/z/lz-518-red-letzride-original-imafm8dyd2rdwbzh.jpeg?q=90&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/k30h8y80/electric-ride-on/q/s/z/lz-518-red-letzride-original-imafm8dyatmqdyfv.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1170/846/k30h8y80/electric-ride-on/q/s/z/lz-518-red-letzride-original-imafm8dywzhkdjuy.jpeg?q=90&crop=false",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Pine-Nuts-1.jpg?v=1714562635",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/200gm-prakriti-naturals-with-shell-lebanon-pine-nuts-500x500.png?v=1714562635",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/healthy-trail-mix-500x500.jpg?v=1714562635",
 
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/4_9I0HWOF.jpg"
@@ -378,111 +353,111 @@ export const data = [
     {
         id: 24,
         type: 'product',
-        title: "Police bike Battery Operated Bike Ride On Toy for Kids",
-        image: "https://rukminim3.flixcart.com/image/1200/1450/xif0q/electric-ride-on/0/x/e/policepainttoybike-bhuvid-40-original-imagzmuag3muxgnj.jpeg?q=20&crop=false",
+        title: "Kimia / Mazafati Dates 2kg",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Medjoul-Dates-1_360x_a1c61c0e-e2fe-47c5-9ab1-a577b90efb78.webp?v=1714560676",
         discount: "81% Off",
-        price: "₹21874",
-        additionalPrice: "₹649.00",
+        price: "₹1874",
+        additionalPrice: "₹195.00",
         sliderImages: [
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/electric-ride-on/0/x/e/policepainttoybike-bhuvid-40-original-imagzmuag3muxgnj.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/electric-ride-on/f/7/m/r1painted-thakran-40-original-imagzmsy2zqz4xzx.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/electric-ride-on/k/u/o/police-battery-operated-ride-on-bike-for-kids-hand-accelerator-original-imagh2tch7svytag.jpeg?q=20&crop=false"
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Medjoul-Dates-1_360x_a1c61c0e-e2fe-47c5-9ab1-a577b90efb78.webp?v=1714560676",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Kimia-Mazafati-Dates-1_360x_60cedf63-a880-40cb-bfdc-461533a671db.webp?v=1714560676",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/product-jpeg-500x500_1.jpg?v=1714560676"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/4_IurXEKW.jpg"
     },
     {
         id: 25,
         type: 'product',
-        title: "3 wheel cycle kids age 1,2,3,4,",
-        image: "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/b/g/z/-original-imah86xmywzun6mf.jpeg?q=20&crop=false3",
+        title: "Blueberry Dried 1kg",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Blueberry-1.jpg?v=1714561983",
         discount: "83% Off",
         price: "₹1872",
-        additionalPrice: "₹399.00",
+        additionalPrice: "₹211.00",
         sliderImages: [
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/b/g/z/-original-imah86xmywzun6mf.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/s/j/f/-original-imah7jkhrzbrpapv.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/f/t/4/-original-imah7jkhyygu8gnd.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/h/u/d/cycle-for-boys-and-girls-age-group-2-to-5-years-tricycle-duggi-original-imagpma9qffdwgry.jpeg?q=20&crop=false"
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Blueberry-1.jpg?v=1714561983",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/dried-blueberries-500x500.jpg?v=1714561983",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/product-jpeg-500x500_2.jpg?v=1714561983",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/blueberry-dried-fruit-500x500.jpg?v=1714561991"
         ],
         info: 'https://rc.super-deel.site/uffr/media/polls/images/download_HuVqBZD.jpg'
     },
     {
         id: 26,
         type: 'product',
-        title: "3 wheel cycle kids age 1,2,3,4,",
-        image: "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/d/q/7/tricycle-for-kids-for-1-to-5-years-kids-with-front-and-back-original-imahyehfubhhfaek.jpeg?q=20&crop=false",
+        title: "Kaju 2 Tukda, 2 Pcs Split 1kg",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Cashew-Nuts-Broken-2pc-1_1024x1024_ee97d7e7-bc8d-4224-b79d-6bfb6b1f9ff7.jpg?v=1714560442",
         discount: "83% Off",
         price: "₹1892",
-        additionalPrice: "₹329.00",
+        additionalPrice: "₹199.00",
         sliderImages: [
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/d/q/7/tricycle-for-kids-for-1-to-5-years-kids-with-front-and-back-original-imahyehfubhhfaek.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/l/c/m/tricycle-for-kids-for-1-to-5-years-kids-with-front-and-back-original-imahyehfggghtqhm.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/p/n/k/tricycle-for-kids-for-1-to-5-years-kids-with-front-and-back-original-imahyehftvhg5rfd.jpeg?q=20&crop=false",
-            
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Cashew-Nuts-Broken-2pc-1_1024x1024_ee97d7e7-bc8d-4224-b79d-6bfb6b1f9ff7.jpg?v=1714560442",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/9_53f8dda4-80c0-4c06-8a51-3b4e07264a06.jpg?v=1714560442",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/8_ffa61a0e-113b-4b76-a40f-42c8b0568646.jpg?v=1714560442",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/12_7fe62c61-43ec-41ff-b37c-2ae60299c549.jpg?v=1714560442"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/download_A9jX8AJ.jpg"
     },
     {
         id: 27,
         type: 'product',
-        title: " new cycle 3 wheel cycle kids age 1,2,3,4,",
-        image: "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/q/q/v/tricycle-4005-light-blue-toyshoppee-original-imahfhmncgqznhsv.jpeg?q=20&crop=false",
+        title: "Kishmish Indian Lambi 3kg",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Indian-Raisins-Regular-1_360x_86915664-9c6f-4baa-bd0c-560c348cae6d.jpg?v=1714561187",
         discount: "82% Off",
         price: "₹1832",
-        additionalPrice: " 579.00",
+        additionalPrice: " 229.00",
         sliderImages: [
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/q/q/v/tricycle-4005-light-blue-toyshoppee-original-imahfhmncgqznhsv.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/p/9/l/tricycle-4005-light-blue-toyshoppee-original-imahfhmn6ztc2a7j.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/toy-tricycle/4/d/b/tricycle-4005-light-blue-toyshoppee-original-imahfhmnkdfkpzgb.jpeg?q=20&crop=false",
-            
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Indian-Raisins-Regular-1_360x_86915664-9c6f-4baa-bd0c-560c348cae6d.jpg?v=1714561187",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/9_f8dd60a6-94bf-4f89-b52a-cbe7e216ec3d.jpg?v=1714561187",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/8_7164a843-8593-4308-8607-875da80da680.jpg?v=1714561187",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/12_8d7cad90-5e77-4e14-ba29-4afa405c6942.jpg?v=1714561187"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/download_A9jX8AJ.jpg"
     },
     {
         id: 28,
         type: 'product',
-        title: "bike 3 wheel ",
-        image: "https://rukminim3.flixcart.com/image/1200/1450/xif0q/electric-ride-on/q/e/z/kids-12v-battery-operated-ride-on-bike-3-wheel-ride-on-bike-60-original-imah8dnhpynzggcy.jpeg?q=20&crop=false5",
+        title: "Almond Mamra Iranian (Jumbo) 2kg",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Almond-Mamra-Jumbo-1.jpg?v=1714563635",
         discount: "85% Off",
         price: "₹1931",
-        additionalPrice: " 349.00",
+        additionalPrice: " 239.00",
         sliderImages: [
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/electric-ride-on/q/e/z/kids-12v-battery-operated-ride-on-bike-3-wheel-ride-on-bike-60-original-imah8dnhpynzggcy.jpeg?q=20&crop=false5",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/electric-ride-on/p/o/l/kids-12v-battery-operated-ride-on-bike-3-wheel-ride-on-bike-60-original-imah8dnhznfsed5h.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/electric-ride-on/y/x/2/kids-12v-battery-operated-ride-on-bike-3-wheel-ride-on-bike-60-original-imah8dnhnawhxxse.jpeg?q=20&crop=false",
-            
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Almond-Mamra-Jumbo-1.jpg?v=1714563635",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/king-size-afghani-mamra-500x500.jpg?v=1714563698",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/afghani-mamra-badam-500x500.jpg?v=1714563698",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/product-jpeg-500x500_8.jpg?v=1714563698"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/download_A9jX8AJ.jpg"
     },
     {
         id: 29,
         type: 'product',
-        title: "Frendo Off Roader Rechargeable Monster Truck",
-        image: "https://rukminim3.flixcart.com/image/1200/1450/xif0q/remote-control-toy/1/r/x/remote-controlled-rock-crawler-rc-monster-truck-4-wheel-drive-1-original-imahyh9vssmzggtn.jpeg?q=20&crop=false",
+        title: "Mix Natural Nuts (Premium) 300g",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Mix-Special-1_360x_159be558-1b0c-4776-830b-8ce60f32bf73.webp?v=1714561338",
         discount: "68% Off",
-        price: "₹2810",
-        additionalPrice: " 279.00",
+        price: "₹810",
+        additionalPrice: " 219.00",
         sliderImages: [
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/remote-control-toy/1/r/x/remote-controlled-rock-crawler-rc-monster-truck-4-wheel-drive-1-original-imahyh9vssmzggtn.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/remote-control-toy/y/j/d/remote-controlled-rock-crawler-rc-monster-truck-4-wheel-drive-1-original-imahyh9vyjh6uhkh.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/remote-control-toy/0/i/0/remote-controlled-rock-crawler-rc-monster-truck-4-wheel-drive-1-original-imahyh9vzahr54em.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/xif0q/remote-control-toy/v/j/z/remote-controlled-rock-crawler-rc-monster-truck-4-wheel-drive-1-original-imahyanhhbwzpsnu.jpeg?q=20&crop=false"
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Mix-Special-1_360x_159be558-1b0c-4776-830b-8ce60f32bf73.webp?v=1714561338",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/images_1_fb202cd0-3fcd-4788-808a-bb4966004c52.jpg?v=1714561372",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/super-healthy-mix-food-nuts-seeds-dry-fruits-397-500x500.jpg?v=1714561372",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/images_1_fb202cd0-3fcd-4788-808a-bb4966004c52.jpg?v=1714561372"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/download_A9jX8AJ.jpg"
     },
     {
         id: 30,
         type: 'product',
-        title: "cycle yello kids age 1,2,3,4,5",
-        image: "https://rukminim3.flixcart.com/image/1200/1450/kxp0mfk0/toy-tricycle/s/d/3/red-blue-handle-3049-yellow-flammable-original-imaga3dbsk5hzrrb.jpeg?q=20&crop=false",
+        title: "Strawberry Dried 500g",
+        image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Strawberry-1.jpg?v=1714562283",
         discount: "68% Off",
-        price: "₹2814",
-        additionalPrice: " 399.00",
+        price: "₹814",
+        additionalPrice: " 199.00",
         sliderImages: [
-            "https://rukminim3.flixcart.com/image/1200/1450/kxp0mfk0/toy-tricycle/s/d/3/red-blue-handle-3049-yellow-flammable-original-imaga3dbsk5hzrrb.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/kxf0jgw0/toy-tricycle/t/h/b/sky-light-yellow-3017-flammable-original-imag9vm4fug3rxeg.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/kxqg2a80/toy-tricycle/k/e/9/red-rays-yellow-handle-3063-flammable-original-imaga4mzzyhhqqhf.jpeg?q=20&crop=false",
-            "https://rukminim3.flixcart.com/image/1200/1450/kxqg2a80/toy-tricycle/n/1/7/red-rays-yellow-handle-3063-flammable-original-imaga4mzvufh3wz4.jpeg?q=20&crop=false"
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Strawberry-1.jpg?v=1714562283",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/a-grade-freeze-dried-strawberries-500x500.jpg?v=1714562283",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/freeze-dried-strawberry-500x500.jpg?v=1714562283",
+            "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/product-jpeg-500x500_4.jpg?v=1714562283"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/download_A9jX8AJ.jpg"
     }
