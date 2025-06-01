@@ -111,7 +111,7 @@ export const data = [
     {
         id: 8,
         type: 'product',
-        title: "1kg PistalRoasted Salted Pistal Crunchy Pistachios|Tasty & Healthy Nuts Dry FruitsiRich in Protein, Fibre, Gluten Free & Low Calories|Healthy Snacks|Dry Fruit Gift Pack)",
+        title: "2kg PistalRoasted Salted Pistal Crunchy Pistachios|Tasty & Healthy Nuts Dry FruitsiRich in Protein, Fibre, Gluten Free & Low Calories|Healthy Snacks|Dry Fruit Gift Pack)",
         image: "https://m.media-amazon.com/images/I/512R39+ge4L._SX679_.jpg",
         discount: "99% Off",
         price: "₹1299",
