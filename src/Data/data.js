@@ -8,7 +8,7 @@ export const data = [
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Untitled-1_3803afe0-d629-4bca-b0e5-f2e95f3fe0ad.png?v=1719849493",
         discount: "77% Off",
         price: "₹1846",
-        additionalPrice: "₹349.00",
+        additionalPrice: "₹279.00",
         sliderImages: [
             "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Untitled-1_3803afe0-d629-4bca-b0e5-f2e95f3fe0ad.png?v=1719849493",
             "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Almond-Large-1_360x_5361846e-c265-4c05-b2d5-1b848bd5fdad.jpg?v=1719849669",
@@ -71,7 +71,7 @@ export const data = [
         image: "https://m.media-amazon.com/images/I/91vlPmt5x6L._SY741_.jpg",
         discount: "76% Off",
         price: "₹999",
-        additionalPrice: "279.00",
+        additionalPrice: "289.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/91vlPmt5x6L._SY741_.jpg",
             "https://m.media-amazon.com/images/I/91Na1oLkSDL._SX679_.jpg",
@@ -100,7 +100,7 @@ export const data = [
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/dvfcbgvnhmhj1_90bec927-f8be-4a75-82a8-f364b9abef5a.png?v=1719896537",
         discount: "75% Off",
         price: "₹1994",
-        additionalPrice: "₹299.00",
+        additionalPrice: "₹289.00",
         sliderImages: [
             "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/dvfcbgvnhmhj1_90bec927-f8be-4a75-82a8-f364b9abef5a.png?v=1719896537",
             "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Afghan-Black-Raisins-Seed-1-new_1024x1024_41f0ca8a-36f8-472b-b9dd-5980b988fc2c.jpg?v=1719896552",
@@ -115,7 +115,7 @@ export const data = [
         image: "https://m.media-amazon.com/images/I/512R39+ge4L._SX679_.jpg",
         discount: "99% Off",
         price: "₹1299",
-        additionalPrice: "₹239.00",
+        additionalPrice: "₹189.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/512R39+ge4L._SX679_.jpg",
             "https://m.media-amazon.com/images/I/91IZElZCi5L._SX679_.jpg",
@@ -173,11 +173,11 @@ export const data = [
     {
         id: 12,
         type: 'product',
-        title: "1 Kg | Kismish | Premium Dried Grapes | Sweet Fruity Taste and Soft Chewy Texture I Natural Source of Antioxidants, Potassium & Fiber I Healthy Snack",
+        title: "5 Kg | Kismish | Premium Dried Grapes | Sweet Fruity Taste and Soft Chewy Texture I Natural Source of Antioxidants, Potassium & Fiber I Healthy Snack",
         image: "https://m.media-amazon.com/images/I/71hYJpQ68nL._SX679_.jpg",
         discount: "80% Off",
         price: "₹900",
-        additionalPrice: "₹169.00",
+        additionalPrice: "₹249.00",
         sliderImages: [
             "https://m.media-amazon.com/images/I/71hYJpQ68nL._SX679_.jpg",
             "https://m.media-amazon.com/images/I/71pVOHrz5OL._SX679_.jpg",
@@ -217,7 +217,7 @@ export const data = [
     {
         id: 15,
         type: 'product',
-        title: "1Kg- Vedaka Premium Black Raisins | Kali Kishmish",
+        title: "5Kg- Vedaka Premium Black Raisins | Kali Kishmish",
         image: "https://m.media-amazon.com/images/I/81oRsFhyHQL._SX679_.jpg",
         discount: "76% Off",
         price: "₹599,",
@@ -247,7 +247,7 @@ export const data = [
     {
         id: 17,
         type: 'product',
-        title: "Kashmiri Walnuts",
+        title: "2kg Kashmiri Walnuts",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Walnuts-Kernals-Jumbo-1_360x_49cb40c5-ae50-4b20-bd88-d3fc69ace22b.webp?v=1714560984",
         discount: "81% Off",
         price: "₹1819",
@@ -263,7 +263,7 @@ export const data = [
     {
         id: 18,
         type: 'product',
-        title: "Kaju Masala",
+        title: "2kg Kaju Masala",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/cashew-spicy-cream-onion-250x250.jpg?v=1714558936",
         discount: "83% Off",
         price: "₹1934",
@@ -279,7 +279,7 @@ export const data = [
     {
         id: 19,
         type: 'product',
-        title: "3kg Goshudh Badam 1Kg, Kaju 1Kg, Pista 1Kg Combo Pack",
+        title: "6kg Goshudh Badam 1Kg, Kaju 1Kg, Pista 1Kg Combo Pack",
         image: "https://m.media-amazon.com/images/I/81DxKBPX+IL._SX679_PIbundle-3,TopRight,0,0_SX679SY604SH20_.jpg",
         discount: "82% Off",
         price: "₹2899",
@@ -292,7 +292,7 @@ export const data = [
     {
         id: 20,
         type: 'product',
-        title: "(1KG) Organic Basket Premium Afghani Anjeer (Dried Figs)",
+        title: "(3KG) Organic Basket Premium Afghani Anjeer (Dried Figs)",
         image: "https://m.media-amazon.com/images/I/71QY0q0LALL._SX679_.jpg",
         discount: "84% Off",
         price: "₹699",
@@ -321,7 +321,7 @@ export const data = [
     {
         id: 22,
         type: 'product',
-        title: "1 kg Macadamia Nuts",
+        title: "3 kg Macadamia Nuts",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Macademia-Nuts-1.jpg?v=1714562730",
         discount: "82% Off",
         price: "₹1998",
@@ -337,7 +337,7 @@ export const data = [
     {
         id: 23,
         type: 'product',
-        title: "2kg Pine Nuts Inshell",
+        title: "4kg Pine Nuts Inshell",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Pine-Nuts-1.jpg?v=1714562635",
         discount: "82% Off",
         price: "₹1942",
@@ -353,11 +353,11 @@ export const data = [
     {
         id: 24,
         type: 'product',
-        title: "Kimia / Mazafati Dates 2kg",
+        title: "4kg Kimia / Mazafati Dates 2kg",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Medjoul-Dates-1_360x_a1c61c0e-e2fe-47c5-9ab1-a577b90efb78.webp?v=1714560676",
         discount: "81% Off",
         price: "₹1874",
-        additionalPrice: "₹195.00",
+        additionalPrice: "₹219.00",
         sliderImages: [
             "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Medjoul-Dates-1_360x_a1c61c0e-e2fe-47c5-9ab1-a577b90efb78.webp?v=1714560676",
             "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Kimia-Mazafati-Dates-1_360x_60cedf63-a880-40cb-bfdc-461533a671db.webp?v=1714560676",
@@ -368,11 +368,11 @@ export const data = [
     {
         id: 25,
         type: 'product',
-        title: "Blueberry Dried 1kg",
+        title: "3kg Blueberry Dried 1kg",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Blueberry-1.jpg?v=1714561983",
         discount: "83% Off",
         price: "₹1872",
-        additionalPrice: "₹211.00",
+        additionalPrice: "₹199.00",
         sliderImages: [
             "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Blueberry-1.jpg?v=1714561983",
             "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/dried-blueberries-500x500.jpg?v=1714561983",
@@ -384,7 +384,7 @@ export const data = [
     {
         id: 26,
         type: 'product',
-        title: "Kaju 2 Tukda, 2 Pcs Split 1kg",
+        title: "2kg Kaju 2 Tukda, 2 Pcs Split ",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Cashew-Nuts-Broken-2pc-1_1024x1024_ee97d7e7-bc8d-4224-b79d-6bfb6b1f9ff7.jpg?v=1714560442",
         discount: "83% Off",
         price: "₹1892",
@@ -400,7 +400,7 @@ export const data = [
     {
         id: 27,
         type: 'product',
-        title: "Kishmish Indian Lambi 3kg",
+        title: "3kg Kishmish Indian Lambi 3kg",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Indian-Raisins-Regular-1_360x_86915664-9c6f-4baa-bd0c-560c348cae6d.jpg?v=1714561187",
         discount: "82% Off",
         price: "₹1832",
@@ -416,7 +416,7 @@ export const data = [
     {
         id: 28,
         type: 'product',
-        title: "Almond Mamra Iranian (Jumbo) 2kg",
+        title: "3kg Almond Mamra Iranian (Jumbo) 2kg",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Almond-Mamra-Jumbo-1.jpg?v=1714563635",
         discount: "85% Off",
         price: "₹1931",
@@ -432,7 +432,7 @@ export const data = [
     {
         id: 29,
         type: 'product',
-        title: "Mix Natural Nuts (Premium) 300g",
+        title: "3kg Mix Natural Nuts (Premium) 300g",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Mix-Special-1_360x_159be558-1b0c-4776-830b-8ce60f32bf73.webp?v=1714561338",
         discount: "68% Off",
         price: "₹810",
@@ -448,7 +448,7 @@ export const data = [
     {
         id: 30,
         type: 'product',
-        title: "Strawberry Dried 500g",
+        title: "3kg Strawberry Dried 500g",
         image: "https://cdn.shopify.com/s/files/1/0577/2174/9594/files/Strawberry-1.jpg?v=1714562283",
         discount: "68% Off",
         price: "₹814",
