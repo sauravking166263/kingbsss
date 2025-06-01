@@ -21,7 +21,7 @@ export const data = [
     {
         id: 2,
         type: 'product',
-        title: "5kg YUM YUM Dry fruits combo 1kg Each Pack of 5 Badam, Kaju, Pista, Kishmish & Akhrot 5kg - Almonds, Cashews, Pistachios, Raisins, Walnuts",
+        title: "5kg YUM YUM Dry fruits combo 1kg Each Pack of 5 Badam, Kaju, Pista, Kishmish & Akhrot  - Almonds, Cashews, Pistachios, Raisins, Walnuts",
         image: "https://m.media-amazon.com/images/I/71UyAg+qymL._SL1200_.jpg",
         discount: "78% Off",
         price: "₹2999",
