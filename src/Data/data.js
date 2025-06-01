@@ -21,16 +21,17 @@ export const data = [
     {
         id: 2,
         type: 'product',
-        title: "5 Litre Jar + 1L Pouch Saffola Gold Refined Cooking oil I Power of 3 - Balance of Good Fats, Triple Anti-Oxidant System & Fortified with Vitamins I Multi-Source Edible Rice Bran & Sunflower Oil",
-        image: "https://m.media-amazon.com/images/I/71qTlx+7CzL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg",
+        title: "YUM YUM Dry fruits combo 1kg Each Pack of 5 Badam, Kaju, Pista, Kishmish & Akhrot 5kg - Almonds, Cashews, Pistachios, Raisins, Walnuts",
+        image: "https://m.media-amazon.com/images/I/71UyAg+qymL._SL1200_.jpg",
         discount: "78% Off",
         price: "₹2999",
-        additionalPrice: "₹219.00",
+        additionalPrice: "₹349.00",
         sliderImages: [
-            "https://m.media-amazon.com/images/I/71qTlx+7CzL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg",
-            "https://m.media-amazon.com/images/I/71nhPCrj5TL._SX679_.jpg",
-            "https://m.media-amazon.com/images/I/71qTlx+7CzL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg",
-            "https://m.media-amazon.com/images/I/71qTlx+7CzL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg"
+            "https://m.media-amazon.com/images/I/71UyAg+qymL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71+siXKYlSL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61G9hyorl2L._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61XIO0A-kLL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/611Eu9qvn3L._SL1000_.jpg"
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
