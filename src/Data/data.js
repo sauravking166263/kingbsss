@@ -42,7 +42,7 @@ export const data = [
         image: "https://g.sdlcdn.com/imgs/k/s/d/KAMAHOUSE-SASHA-MALIKA-MALE-POCKET-SDL316648040-1-9ed8e.jpg",
         discount: "78% Off",
         price: "1899",
-        additionalPrice: "219.00",
+        additionalPrice: "249.00",
         sliderImages: [
             "https://g.sdlcdn.com/imgs/k/s/d/KAMAHOUSE-SASHA-MALIKA-MALE-POCKET-SDL316648040-1-9ed8e.jpg",
             "https://g.sdlcdn.com/imgs/k/s/d/KAMAHOUSE-SASHA-MALIKA-MALE-POCKET-SDL316648040-2-b5e4f.jpg",
