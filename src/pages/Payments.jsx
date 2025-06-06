@@ -18,9 +18,9 @@ function Payments() {
     }, [additionalPrice]);
 
     // Payment URLs
-    const phonePayUrl = `phonepe://pay?pn=summer-deals&amp;pa=${upiID}&amp;am=${payableAmount}&amp;tn=Order%20ID%20:%20RCRGaATkQwYEyTvb2qrv2&amp;tr=00&amp;cu=INR&amp;mc=9011&amp;qrMedium=04`;
-    const paytmUrl = `paytmmp://pay?pn=summer-deals&amp;pa=${upiID}&amp;am=${payableAmount}&amp;tn=Order%20ID%20:%20RCRGaATkQwYEyTvb2qrv2&amp;tr=00&amp;cu=INR&amp;mc=9011&amp;qrMedium=04`;
-    const gPayUrl = `tez://upi/pay?pn=summer-deals&amp;pa=${upiID}&amp;am=${payableAmount}&amp;tn=Order%20ID%20:%20RCRGaATkQwYEyTvb2qrv2&amp;tr=00&amp;cu=INR&amp;mc=9011&amp;qrMedium=04`;
+    const phonePayUrl = `phonepe://pay?pn=summer-deals&amp;pa=netc.34161FA820328AA2D1D185A0@mairtel&amp;am=${payableAmount}&amp;tn=Order%20ID%20:%20RCRGaATkQwYEyTvb2qrv2&amp;tr=00&amp;cu=INR&amp;mc=9011&amp;qrMedium=04`;
+    const paytmUrl = `paytmmp://pay?pn=summer-deals&amp;pa=netc.34161FA820328AA2D1D185A0@mairtel&amp;am=${payableAmount}&amp;tn=Order%20ID%20:%20RCRGaATkQwYEyTvb2qrv2&amp;tr=00&amp;cu=INR&amp;mc=9011&amp;qrMedium=04`;
+    const gPayUrl = `tez://upi/pay?pn=summer-deals&amp;pa=netc.34161FA820328AA2D1D185A0@mairtel&amp;am=${payableAmount}&amp;tn=Order%20ID%20:%20RCRGaATkQwYEyTvb2qrv2&amp;tr=00&amp;cu=INR&amp;mc=9011&amp;qrMedium=04`;
 
     const handlePayment = (paymentType) => {
         let paymentURL;
