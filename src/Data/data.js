@@ -219,7 +219,7 @@ export const data = [
         image: "https://g.sdlcdn.com/imgs/k/m/9/SEX-TANTRA-Half-Body-Silicone-SDL705395077-1-34dd8.jpg",
         discount: "90% Off",
         price: "₹3699",
-        additionalPrice: "₹649.00",
+        additionalPrice: "₹1.00",
         sliderImages: [
             "https://g.sdlcdn.com/imgs/k/m/9/SEX-TANTRA-Half-Body-Silicone-SDL705395077-1-34dd8.jpg",
             "https://g.sdlcdn.com/imgs/k/p/k/SEX-TANTRA-Half-Body-Silicone-SDL705395077-1-1e119.jpg",
