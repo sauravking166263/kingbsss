@@ -8,7 +8,7 @@ export const data = [
         image: "https://g.sdlcdn.com/imgs/k/y/j/BREAST-VAGINA-HOT-SEXY-DOLL-SDL512728765-1-42ba1.jpg",
         discount: "87% Off",
         price: "₹1846",
-        additionalPrice: "₹279.00",
+        additionalPrice: "₹189.00",
         sliderImages: [
             "https://g.sdlcdn.com/imgs/k/y/j/BREAST-VAGINA-HOT-SEXY-DOLL-SDL512728765-1-42ba1.jpg",
             "https://g.sdlcdn.com/imgs/k/y/j/BREAST-VAGINA-HOT-SEXY-DOLL-SDL512728765-2-14236.jpg",
