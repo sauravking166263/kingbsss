@@ -1,7 +1,7 @@
 
 
 export const data = [
-    {
+   {
         id: 1,
         type: 'product',
         title: "BREAST & VAGINA HOT SEXY DOLL FOR MEN MASTURBATION ENJOY REAL PARTNER SEX WITH FREE LUBE(LOW PRICE SEX TOY)",
@@ -229,5 +229,70 @@ export const data = [
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/asdfgawedtgqerg.jpg"
     },
-    
+    {
+        id: 15,
+        type: 'product',
+        title: "8 INCH BELT SILICON CONDOM WITH VIBRATER MULTIPLE MODE",
+        image: "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.10.00_1.jpg?v=1736281238&width=1445",
+        discount: "76% Off",
+        price: "₹4567,",
+        additionalPrice: "₹318.00",
+        sliderImages: [
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.10.00_1.jpg?v=1736281238&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.57_4.jpg?v=1736281238&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.56.jpg?v=1736281238&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.56_3.jpg?v=1736281238&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.57_3.jpg?v=1736281238&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.10.06_4.jpg?v=1736281238&width=1445"
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/5.jpg"
+    },
+    {
+        id: 16,
+        type: 'product',
+        title: "Strap-on Realistic Vibrating Dildo with Remote Wearable Harness 7 Inch Dildo with Belt Female Masturbator Sex Toys for Women Lesbian Couple",
+        image: "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-8-c4867.jpg?w=850&h=995&sharp=7",
+        discount: "78% Off",
+        price: "₹1999",
+        additionalPrice: "₹248.00",
+        sliderImages: [
+            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-8-c4867.jpg?w=850&h=995&sharp=7",
+            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-9-a45fc.jpg?w=850&h=995&sharp=7",
+            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-1-28c63.jpg?w=850&h=995&sharp=7",
+            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-2-1aa28.jpg?w=850&h=995&sharp=7"
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/5_3kjoVph.jpg"
+    },
+    {
+        id: 17,
+        type: 'product',
+        title: "6 Inch BT Condom with Reusable Man Condom",
+        image: "https://greenleafmart.shop/cdn/shop/files/IMG-20240927-WA0443.jpg?v=1735375402&width=1445",
+        discount: "81% Off",
+        price: "₹1819",
+        additionalPrice: "₹198.00",
+        sliderImages: [
+            "https://greenleafmart.shop/cdn/shop/files/IMG-20240927-WA0443.jpg?v=1735375402&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/DR.webp?v=1735382283&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsApp_Image_2024-12-28_at_12.13.33_PM_6.jpg?v=1735382283&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsApp_Image_2024-12-28_at_12.13.33_PM_6.jpg?v=1735382283&width=1445"
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/5_JxoDcj6.jpg"
+    },
+    {
+        id: 18,
+        type: 'product',
+        title: "5 INCH JCB REUSEBLE CONDOM",
+        image: "https://greenleafmart.shop/cdn/shop/files/IMG-20240801-WA0071.jpg?v=1735382958&width=1445",
+        discount: "83% Off",
+        price: "₹1934",
+        additionalPrice: "₹178.00",
+        sliderImages: [
+            "https://greenleafmart.shop/cdn/shop/files/IMG-20240801-WA0071.jpg?v=1735382958&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/IMG-20240626-WA0001.jpg?v=1735382959&width=1445",
+            
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/5_GfSPSUE.jpg"
+    },
+   
 ];
