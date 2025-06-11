@@ -8,7 +8,7 @@ export const data = [
         image: "https://g.sdlcdn.com/imgs/k/y/j/BREAST-VAGINA-HOT-SEXY-DOLL-SDL512728765-1-42ba1.jpg",
         discount: "87% Off",
         price: "₹1846",
-        additionalPrice: "₹189.00",
+        additionalPrice: "₹259.00",
         sliderImages: [
             "https://g.sdlcdn.com/imgs/k/y/j/BREAST-VAGINA-HOT-SEXY-DOLL-SDL512728765-1-42ba1.jpg",
             "https://g.sdlcdn.com/imgs/k/y/j/BREAST-VAGINA-HOT-SEXY-DOLL-SDL512728765-2-14236.jpg",
@@ -25,7 +25,7 @@ export const data = [
         image: "https://g.sdlcdn.com/imgs/k/z/p/KAMAHOUSE-REALSTIC-MASTURBATOR-MY-GURL-SDL851220619-1-cde9c.jpg",
         discount: "90   % Off",
         price: "₹1999",
-        additionalPrice: "₹239.00",
+        additionalPrice: "₹299.00",
         sliderImages: [
             "https://g.sdlcdn.com/imgs/k/z/p/KAMAHOUSE-REALSTIC-MASTURBATOR-MY-GURL-SDL851220619-1-cde9c.jpg",
             "https://g.sdlcdn.com/imgs/k/z/p/KAMAHOUSE-REALSTIC-MASTURBATOR-MY-GURL-SDL851220619-2-49754.jpg",
@@ -59,7 +59,7 @@ export const data = [
         image: "https://g.sdlcdn.com/imgs/k/3/6/NAUGHTY-TOYS-PRESENT-7-5-SDL463741433-1-78c97.jpg",
         discount: "76% Off",
         price: "₹1990",
-        additionalPrice: "215.00",
+        additionalPrice: "239.00",
         sliderImages: [
             "https://g.sdlcdn.com/imgs/k/3/6/NAUGHTY-TOYS-PRESENT-7-5-SDL463741433-1-78c97.jpg",
             "https://g.sdlcdn.com/imgs/k/3/6/NAUGHTY-TOYS-PRESENT-7-5-SDL463741433-2-124c6.jpg",
@@ -72,34 +72,36 @@ export const data = [
     {
         id: 5,
         type: 'product',
-        title: "Pocket Pussy with Real Mouth and Tongue Masturbator Low Price Sex Toy For Men",
-        image: "https://g.sdlcdn.com/imgs/k/t/g/KAMAHOUSE-Pocket-Pussy-with-Real-SDL274846594-1-d5b7e.jpg",
+        title: "8 INCH BELT SILICON CONDOM WITH VIBRATER MULTIPLE MODE",
+        image: "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.10.00_1.jpg?v=1736281238&width=1445",
         discount: "76% Off",
-        price: "₹999",
-        additionalPrice: "189.00",
+        price: "₹4567,",
+        additionalPrice: "₹318.00",
         sliderImages: [
-            "https://g.sdlcdn.com/imgs/k/t/g/KAMAHOUSE-Pocket-Pussy-with-Real-SDL274846594-1-d5b7e.jpg",
-            "https://g.sdlcdn.com/imgs/k/t/g/KAMAHOUSE-Pocket-Pussy-with-Real-SDL274846594-2-dca5c.jpg",
-            "https://g.sdlcdn.com/imgs/k/t/g/KAMAHOUSE-Pocket-Pussy-with-Real-SDL274846594-3-ef384.jpg",
-            "https://g.sdlcdn.com/imgs/k/t/g/KAMAHOUSE-Pocket-Pussy-with-Real-SDL274846594-5-20628.png  "
-            
-        ], info: "https://rc.super-deel.site/uffr/media/polls/images/download_MSKov80.jpg"
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.10.00_1.jpg?v=1736281238&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.57_4.jpg?v=1736281238&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.56.jpg?v=1736281238&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.56_3.jpg?v=1736281238&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.57_3.jpg?v=1736281238&width=1445",
+            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.10.06_4.jpg?v=1736281238&width=1445"
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/5.jpg"
     },
-    {
+     {
         id: 6,
         type: 'product',
-        title: "Easy to Hide Male Stroker Body Safe Silicone Material Easy to Wash Penis Masturbator For Men",
-        image: "https://g.sdlcdn.com/imgs/k/4/f/Secret-Masturbator-Easy-to-Hide-SDL196331053-1-924eb.jpg",
-        discount: "87% Off",
+        title: "Strap-on Realistic Vibrating Dildo with Remote Wearable Harness 7 Inch Dildo with Belt Female Masturbator Sex Toys for Women Lesbian Couple",
+        image: "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-8-c4867.jpg?w=850&h=995&sharp=7",
+        discount: "78% Off",
         price: "₹1999",
-        additionalPrice: "₹199.00",
+        additionalPrice: "₹248.00",
         sliderImages: [
-            "https://g.sdlcdn.com/imgs/k/4/f/Secret-Masturbator-Easy-to-Hide-SDL196331053-1-924eb.jpg",
-            "https://g.sdlcdn.com/imgs/k/4/f/Secret-Masturbator-Easy-to-Hide-SDL196331053-2-7fc4c.jpg",
-            "https://g.sdlcdn.com/imgs/k/4/f/Secret-Masturbator-Easy-to-Hide-SDL196331053-3-b0476.jpg",
-            "https://g.sdlcdn.com/imgs/k/4/f/Secret-Masturbator-Easy-to-Hide-SDL196331053-4-1062e.jpg",
-
-        ], info: "https://rc.super-deel.site/uffr/media/polls/images/download_Xj2qTgj.jpg"
+            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-8-c4867.jpg?w=850&h=995&sharp=7",
+            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-9-a45fc.jpg?w=850&h=995&sharp=7",
+            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-1-28c63.jpg?w=850&h=995&sharp=7",
+            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-2-1aa28.jpg?w=850&h=995&sharp=7"
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/5_3kjoVph.jpg"
     },
     {
         id: 7,
@@ -232,36 +234,34 @@ export const data = [
     {
         id: 15,
         type: 'product',
-        title: "8 INCH BELT SILICON CONDOM WITH VIBRATER MULTIPLE MODE",
-        image: "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.10.00_1.jpg?v=1736281238&width=1445",
+        title: "Pocket Pussy with Real Mouth and Tongue Masturbator Low Price Sex Toy For Men",
+        image: "https://g.sdlcdn.com/imgs/k/t/g/KAMAHOUSE-Pocket-Pussy-with-Real-SDL274846594-1-d5b7e.jpg",
         discount: "76% Off",
-        price: "₹4567,",
-        additionalPrice: "₹318.00",
+        price: "₹999",
+        additionalPrice: "189.00",
         sliderImages: [
-            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.10.00_1.jpg?v=1736281238&width=1445",
-            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.57_4.jpg?v=1736281238&width=1445",
-            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.56.jpg?v=1736281238&width=1445",
-            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.56_3.jpg?v=1736281238&width=1445",
-            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.09.57_3.jpg?v=1736281238&width=1445",
-            "https://greenleafmart.shop/cdn/shop/files/WhatsAppImage2025-01-07at18.10.06_4.jpg?v=1736281238&width=1445"
-        ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/5.jpg"
+            "https://g.sdlcdn.com/imgs/k/t/g/KAMAHOUSE-Pocket-Pussy-with-Real-SDL274846594-1-d5b7e.jpg",
+            "https://g.sdlcdn.com/imgs/k/t/g/KAMAHOUSE-Pocket-Pussy-with-Real-SDL274846594-2-dca5c.jpg",
+            "https://g.sdlcdn.com/imgs/k/t/g/KAMAHOUSE-Pocket-Pussy-with-Real-SDL274846594-3-ef384.jpg",
+            "https://g.sdlcdn.com/imgs/k/t/g/KAMAHOUSE-Pocket-Pussy-with-Real-SDL274846594-5-20628.png  "
+            
+        ], info: "https://rc.super-deel.site/uffr/media/polls/images/download_MSKov80.jpg"
     },
     {
         id: 16,
         type: 'product',
-        title: "Strap-on Realistic Vibrating Dildo with Remote Wearable Harness 7 Inch Dildo with Belt Female Masturbator Sex Toys for Women Lesbian Couple",
-        image: "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-8-c4867.jpg?w=850&h=995&sharp=7",
-        discount: "78% Off",
+        title: "Easy to Hide Male Stroker Body Safe Silicone Material Easy to Wash Penis Masturbator For Men",
+        image: "https://g.sdlcdn.com/imgs/k/4/f/Secret-Masturbator-Easy-to-Hide-SDL196331053-1-924eb.jpg",
+        discount: "87% Off",
         price: "₹1999",
-        additionalPrice: "₹248.00",
+        additionalPrice: "₹199.00",
         sliderImages: [
-            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-8-c4867.jpg?w=850&h=995&sharp=7",
-            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-9-a45fc.jpg?w=850&h=995&sharp=7",
-            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-1-28c63.jpg?w=850&h=995&sharp=7",
-            "https://g.sdlcdn.com/imgs/k/z/n/Strap-on-Realistic-Vibrating-Dildo-SDL524825726-2-1aa28.jpg?w=850&h=995&sharp=7"
-        ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/5_3kjoVph.jpg"
+            "https://g.sdlcdn.com/imgs/k/4/f/Secret-Masturbator-Easy-to-Hide-SDL196331053-1-924eb.jpg",
+            "https://g.sdlcdn.com/imgs/k/4/f/Secret-Masturbator-Easy-to-Hide-SDL196331053-2-7fc4c.jpg",
+            "https://g.sdlcdn.com/imgs/k/4/f/Secret-Masturbator-Easy-to-Hide-SDL196331053-3-b0476.jpg",
+            "https://g.sdlcdn.com/imgs/k/4/f/Secret-Masturbator-Easy-to-Hide-SDL196331053-4-1062e.jpg",
+
+        ], info: "https://rc.super-deel.site/uffr/media/polls/images/download_Xj2qTgj.jpg"
     },
     {
         id: 17,
